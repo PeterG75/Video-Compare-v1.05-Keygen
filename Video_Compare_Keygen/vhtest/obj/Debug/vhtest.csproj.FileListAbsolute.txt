@@ -1,0 +1,10 @@
+C:\Users\DeltaFoX\source\repos\vhtest\vhtest\obj\Debug\vhtest.csprojAssemblyReference.cache
+C:\Users\DeltaFoX\source\repos\vhtest\vhtest\obj\Debug\vhtest.Form1.resources
+C:\Users\DeltaFoX\source\repos\vhtest\vhtest\obj\Debug\vhtest.Properties.Resources.resources
+C:\Users\DeltaFoX\source\repos\vhtest\vhtest\obj\Debug\vhtest.csproj.GenerateResource.cache
+C:\Users\DeltaFoX\source\repos\vhtest\vhtest\obj\Debug\vhtest.csproj.CoreCompileInputs.cache
+C:\Users\DeltaFoX\source\repos\vhtest\vhtest\bin\Debug\vhtest.exe.config
+C:\Users\DeltaFoX\source\repos\vhtest\vhtest\bin\Debug\vhtest.exe
+C:\Users\DeltaFoX\source\repos\vhtest\vhtest\bin\Debug\vhtest.pdb
+C:\Users\DeltaFoX\source\repos\vhtest\vhtest\obj\Debug\vhtest.exe
+C:\Users\DeltaFoX\source\repos\vhtest\vhtest\obj\Debug\vhtest.pdb
