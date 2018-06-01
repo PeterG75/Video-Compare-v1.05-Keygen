@@ -11,15 +11,10 @@ namespace vhtest
 {
     public enum LicenseType
     {
-        // Token: 0x040002D2 RID: 722
         ProEdition = 20,
-        // Token: 0x040002D3 RID: 723
         ExpertEdition = 15,
-        // Token: 0x040002D4 RID: 724
         HomeEdition = 10,
-        // Token: 0x040002D5 RID: 725
         Unvalid = 0,
-        // Token: 0x040002D6 RID: 726
         Free
     }
 
@@ -178,7 +173,7 @@ namespace vhtest
             else if (rh.Checked)
                 lic = 0xA;
             HashAlgorithm hashAlgorithm = MD5.Create();
-            byte[] xor = { 0xEA, 0xE7, 0x36, 0x86, 0x17, 0xCA, 0x28 };
+            byte[] xor = { 0xEA, 0xE7, 0x36, 0x86, 0x17, 0xCA, 0x28 };//this.byte_0[10 + x] find on Memory...
             uint nXorLicense = (uint)new Random().Next();
             LicenseType licenseType = (LicenseType)nXorLicense;
             uint nLimiteDate = 0u;
